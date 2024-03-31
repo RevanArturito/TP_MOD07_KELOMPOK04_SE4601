@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\",
+  "WorkspaceRootPath": "C:\\Programing\\C#\\mod07\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|d:\\revan\\materi kuliah\\semester 4\\praktikum kpl\\tp 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|c:\\programing\\c#\\mod07\\tp_mod07_kelompok04_se4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|solutionrelative:tpmod07_kelompok_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -24,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\Program.cs",
+              "DocumentMoniker": "C:\\Programing\\C#\\mod07\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\Program.cs",
               "RelativeDocumentMoniker": "tpmod07_kelompok_04\\Program.cs",
-              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\Program.cs",
+              "ToolTip": "C:\\Programing\\C#\\mod07\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\Program.cs",
               "RelativeToolTip": "tpmod07_kelompok_04\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T16:31:34.37Z",
               "EditorCaption": ""
