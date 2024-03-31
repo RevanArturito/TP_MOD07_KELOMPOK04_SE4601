@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\faish\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj",
+      "projectUniqueName": "D:\\codingan\\TP_MOD_07_1302223120_Faishal Harits Al Fajri_Kelompok_4\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj",
       "projectName": "tpmod07_kelompok_04",
-      "projectPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\obj\\",
+      "projectPath": "D:\\codingan\\TP_MOD_07_1302223120_Faishal Harits Al Fajri_Kelompok_4\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj",
+      "packagesPath": "C:\\Users\\faish\\.nuget\\packages\\",
+      "outputPath": "D:\\codingan\\TP_MOD_07_1302223120_Faishal Harits Al Fajri_Kelompok_4\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\faish\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
