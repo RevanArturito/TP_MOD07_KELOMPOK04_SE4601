@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj": {}
+    "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj": {}
   },
   "projects": {
-    "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj": {
+    "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj",
+        "projectUniqueName": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj",
         "projectName": "tpmod07_kelompok_04",
-        "projectPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj",
+        "projectPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP 7\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\obj\\",
+        "outputPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
