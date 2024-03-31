@@ -7,11 +7,15 @@
       "RelativeMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|solutionrelative:tpmod07_kelompok_04\\datamahasiswa_1302223028.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|c:\\users\\alghifari\\tubeskpl2\\tp_mod07_kelompok04_se4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|C:\\Users\\Alghifari\\tubeskpl2\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|solutionrelative:tpmod07_kelompok_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|c:\\users\\alghifari\\tubeskpl2\\tp_mod07_kelompok04_se4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tp7_1_1302223028.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|c:\\users\\alghifari\\tubeskpl2\\tp_mod07_kelompok04_se4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tp7_2_1302223028.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|solutionrelative:tpmod07_kelompok_04\\tp7_2_1302223028.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|C:\\Users\\Alghifari\\tubeskpl2\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tp7_1_1302223028.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8023BDCB-6314-48D5-B69C-A6A42CADDA81}|tpmod07_kelompok_04\\tpmod07_kelompok_04.csproj|solutionrelative:tpmod07_kelompok_04\\tp7_1_1302223028.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "tp7_2_1302223028.json",
+              "DocumentMoniker": "C:\\Users\\Alghifari\\tubeskpl2\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tp7_2_1302223028.json",
+              "RelativeDocumentMoniker": "tpmod07_kelompok_04\\tp7_2_1302223028.json",
+              "ToolTip": "C:\\Users\\Alghifari\\tubeskpl2\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tp7_2_1302223028.json",
+              "RelativeToolTip": "tpmod07_kelompok_04\\tp7_2_1302223028.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T22:07:39.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "tp7_1_1302223028.json",
               "DocumentMoniker": "C:\\Users\\Alghifari\\tubeskpl2\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\tp7_1_1302223028.json",
               "RelativeDocumentMoniker": "tpmod07_kelompok_04\\tp7_1_1302223028.json",
@@ -38,8 +55,7 @@
               "RelativeToolTip": "tpmod07_kelompok_04\\tp7_1_1302223028.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-31T17:51:58.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T17:51:58.987Z"
             },
             {
               "$type": "Document",
@@ -49,7 +65,7 @@
               "RelativeDocumentMoniker": "tpmod07_kelompok_04\\DataMahasiswa_1302223028.cs",
               "ToolTip": "C:\\Users\\Alghifari\\tubeskpl2\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\DataMahasiswa_1302223028.cs",
               "RelativeToolTip": "tpmod07_kelompok_04\\DataMahasiswa_1302223028.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAwwBMAAAAJAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwE0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T16:53:02.189Z",
               "EditorCaption": ""
@@ -62,7 +78,7 @@
               "RelativeDocumentMoniker": "tpmod07_kelompok_04\\Program.cs",
               "ToolTip": "C:\\Users\\Alghifari\\tubeskpl2\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tpmod07_kelompok_04\\Program.cs",
               "RelativeToolTip": "tpmod07_kelompok_04\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T16:31:34.37Z",
               "EditorCaption": ""

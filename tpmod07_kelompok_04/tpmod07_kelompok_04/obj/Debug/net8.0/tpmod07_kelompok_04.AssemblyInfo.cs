@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tpmod07_kelompok_04")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d38e164856210aaa1cbd74c61af69862368e997b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c35f85dbff0b39f415d0a3d79cfe748241e9df4")]
 [assembly: System.Reflection.AssemblyProductAttribute("tpmod07_kelompok_04")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tpmod07_kelompok_04")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
