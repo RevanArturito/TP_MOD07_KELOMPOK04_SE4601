@@ -30,7 +30,7 @@ namespace tpmod07_kelompok_04
             string filePath = "D:\\codingan\\TP_MOD_07_1302223120_Faishal Harits Al Fajri_Kelompok_4\\TP_MOD07_KELOMPOK04_SE4601\\tpmod07_kelompok_04\\tp7_1_1302223120.json";
             string jsonString = File.ReadAllText(filePath);
 
-            //menampilkan seluruh data mahasiswa
+            //menampilkan seluruh data mahasiswa yang berisikan nama depan & belakang, nim, & fakultas
             Mahasiswa_1302223120 mahasiswa = JsonSerializer.Deserialize<Mahasiswa_1302223120>(jsonString);
             Console.WriteLine($"Nama : {mahasiswa.nama.depan} {mahasiswa.nama.belakang}");
             Console.WriteLine($"NIM : {mahasiswa.nim}");
