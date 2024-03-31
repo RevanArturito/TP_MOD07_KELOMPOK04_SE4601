@@ -8,6 +8,9 @@ public class Program
         DataMahasiswa1302223057 mahasiswa = new DataMahasiswa1302223057();
         mahasiswa.ReadJSON();
 
-        
+        // memanggil kembali class kuliahmahasiswa untuk menggunakan method readJSON
+        KuliahMahasiswa1302223057 kuliah = new KuliahMahasiswa1302223057();
+        kuliah.ReadJSON();
+
     }
 }
